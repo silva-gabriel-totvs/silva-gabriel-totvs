@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Gabriel Silva
 
-- 🔭 Hoje trabalho com Infraestrutura de TI
-- 🌱 Estudando programação em PHP
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho como Analista I de Serviços Cloud na TOTVS
+- 🌱 Estudando programação em PHP e Python
 
  <div>
   <a href="https://github.com/silva-gabriel-totvs">
@@ -26,4 +25,5 @@
   <a href="https://www.linkedin.com/in/gabrielsilvaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/silva-gabriel-totvs/silva-gabriel-totvs/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
