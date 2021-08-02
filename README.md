@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Silva
 
 - 🔭 Hoje trabalho como Analista I de Serviços Cloud na TOTVS
-- 🌱 Estudando programação em PHP e Python
+- 🌱 Estudando programação em Powershell, PHP, e Python
 
  <div>
   <a href="https://github.com/silva-gabriel-totvs">
